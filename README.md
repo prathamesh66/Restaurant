@@ -1,6 +1,6 @@
 # Restaurant App
 
-A modern web application designed for showcasing restaurant features, allowing users to browse menus, view restaurant details, and enjoy a seamless dining experience.
+A modern web application designed for showcasing restaurant features, allowing users to browse menus, view restaurant details, and enjoy a seamless dining experience..
 
 ## Demo
 
